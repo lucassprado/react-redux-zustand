@@ -1,7 +1,8 @@
+import { Player } from './pages/Player'
 import './styles/global.css'
 
 export function App() {
   return (
-    <h1>Hello</h1>
+    <Player />
   )
 }
